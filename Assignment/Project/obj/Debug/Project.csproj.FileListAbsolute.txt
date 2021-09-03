@@ -1,0 +1,7 @@
+D:\외주\2021\[20210521-진행중] yusuk6185 (300,000)\Project\Project\bin\Debug\Project.exe.config
+D:\외주\2021\[20210521-진행중] yusuk6185 (300,000)\Project\Project\bin\Debug\Project.exe
+D:\외주\2021\[20210521-진행중] yusuk6185 (300,000)\Project\Project\bin\Debug\Project.pdb
+D:\외주\2021\[20210521-진행중] yusuk6185 (300,000)\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\외주\2021\[20210521-진행중] yusuk6185 (300,000)\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\외주\2021\[20210521-진행중] yusuk6185 (300,000)\Project\Project\obj\Debug\Project.exe
+D:\외주\2021\[20210521-진행중] yusuk6185 (300,000)\Project\Project\obj\Debug\Project.pdb
