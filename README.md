@@ -70,18 +70,22 @@ following images are the screenshots of successful testing.
 ### The software application should have a staff menu that allows the staff to do the following:
 
 Staff menu
+
 ![image](https://user-images.githubusercontent.com/35501963/144555067-1efa5996-86ea-4efe-89d6-677027deba0e.png)
 
 Add DVDs of a new movie to the system. 
+
 ![image](https://user-images.githubusercontent.com/35501963/144555089-ad9a51c6-3025-41f2-852c-6da2336bb227.png)
 
 ![image](https://user-images.githubusercontent.com/35501963/144555100-6dfc8a81-1be1-47ce-ab13-880135bef0f1.png)
 
 Add DVDs of an existing movie to the system.
+
 ![image](https://user-images.githubusercontent.com/35501963/144555128-4db01cf1-9a32-498f-8972-8c2d51888b5a.png)
 
 Remove DVDs of a movie from the system – if all the DVDs of a movie are removed, the movie
 should also be removed from the system. 
+
 ![image](https://user-images.githubusercontent.com/35501963/144555144-c93981df-5e8c-45bf-9e5f-8d5ebf4d1d1d.png)
 
 Register a new member with the system. When a member is being registered via a staff member, a
@@ -91,10 +95,13 @@ four-digit password is set for the member.
 
 
 Remove a registered member from the system. 
+
 ![image](https://user-images.githubusercontent.com/35501963/144555178-a9a9e6fb-6a12-4f8f-ac96-2a3c9585b9c4.png)
 
 Find a member’s contact phone number, given the member’s full name.
+
 ![image](https://user-images.githubusercontent.com/35501963/144555201-95512c1b-9c72-4be7-89b0-fb83b31574f9.png)
 
 Find all the members who are currently renting a particular movie. 
+
 ![image](https://user-images.githubusercontent.com/35501963/144555224-b738542a-81cc-44d5-89ad-b30aaa7d6201.png)
