@@ -67,7 +67,7 @@ which is not included in the list above is also tested. The other test plan is a
 The result of the testing turned out to successful by passing all of the testing specifications. The
 following images are the screenshots of successful testing.
 
-The software application should have a staff menu that allows the staff to do the following:
+### The software application should have a staff menu that allows the staff to do the following:
 
 Staff menu
 ![image](https://user-images.githubusercontent.com/35501963/144555067-1efa5996-86ea-4efe-89d6-677027deba0e.png)
